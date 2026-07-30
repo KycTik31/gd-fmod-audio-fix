@@ -11,7 +11,6 @@
 	"version": "v1.0.0",
 	"developer": "KycTik",
 	"description": "This mod fixes 16khz problem in audio",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+	"links": { "source": "https://github.com/KycTik31/gd-fmod-audio-fix"},
+	"tags": ["bugfix", "music", "enhancement"]
 }
