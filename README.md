@@ -5,6 +5,8 @@ A Geode mod for Geometry Dash 2.2 that bypasses FMOD's ~16kHz audio cutoff on MP
 ## Disclaimer
 I don't write C++ and vibe-coded this mod using AI. However, I tested it a little bit (spectral analysis, memory leaks, song triggers, and long levels like Eon) to make sure it works as intended (and it does as far as I can tell).
 
+Mod currently available only for Windows
+
 ## Installation
 1. [Download mod](https://github.com/KycTik31/gd-fmod-audio-fix/releases/latest/download/kyctik.fmod-audio-fix.geode)
 2. Open Geometry Dash
